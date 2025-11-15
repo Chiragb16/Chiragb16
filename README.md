@@ -4,8 +4,8 @@
 I'm a Embedded Hardware Engineer, currently pursuing my studies.
 
 ## :space_invader: &nbsp;About Me
-- I'm a second-year B.Tech student in Electronics & Communication Engineering.
-- I'm passionate about the electronics, PCB desin=gn and a gamer by heart!
+- I'm a third-year B.Tech student in Electronics & Communication Engineering.
+- I'm passionate about the electronics, PCB design and a gamer by heart!
 - Currently looking for ideas to build ✨!
 
 <br>
