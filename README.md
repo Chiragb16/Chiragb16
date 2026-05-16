@@ -12,36 +12,57 @@
 
 # 🚀 About Me
 
-- 🎓 Third-year Electronics & Communication Engineering Student  
-- 🔧 Passionate about Embedded Systems, PCB Design & Digital Electronics  
-- 🧠 Exploring VLSI, FPGA Design & Communication Protocols  
-- 🛠️ Working with ESP32, nRF52840, Verilog & KiCad  
-- 💡 Building projects related to Smart Hardware & IoT  
+- 🎓 Third-year Electronics & Communication Engineering student focused on Embedded Systems and Digital VLSI  
+- ⚡ Passionate about RTL Design, FPGA Development, PCB Design, and Embedded Hardware Systems  
+- 🧠 Exploring Digital IC Design, Verification, Communication Protocols, and ASIC Design Flow  
+- 🔧 Hands-on experience with Verilog, SystemVerilog, ESP32, STM32, nRF52840, and high-speed PCB design  
+- 🛠️ Skilled in Vivado, ModelSim, KiCad, Quartus, and embedded firmware development  
+- 🚀 Building real-world hardware projects involving IoT, wireless systems, sensor integration, and custom PCB architectures  
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino" />
-</p>
+## 💻 My Tech Stack
 
-### ⚙️ Hardware & Embedded
-<p>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-</p>
+### ⚡ Digital VLSI & FPGA
+Verilog • SystemVerilog • Digital Logic Design • RTL Design  
+FSM Design • Timing Diagrams • Testbench Writing • Functional Verification  
+Vivado • ModelSim • Quartus • GTKWave • Tiny Tapeout  
 
-### 🧩 Tools & Software
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+---
 
-<p>
-<img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vivado-FPGA-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ModelSim-Simulation-green?style=for-the-badge"/>
-</p>
+### 🔧 Chip Design & EDA Tools
+Cadence Virtuoso • Genus • Innovus • NCsim/Xcelium  
+Synopsys HSPICE • ngSpice • OpenROAD • Magic VLSI  
+KiCad • MultiSim • Proteus  
+
+---
+
+### 🚀 Embedded Systems & IoT
+ESP32 • STM32 • nRF52840 • Arduino Uno/Nano  
+FreeRTOS • Embedded C • MicroPython • BLE  
+UART • SPI • I2C • CAN • WiFi • Firebase  
+
+---
+
+### 📡 PCB Design & Hardware
+Schematic Design • PCB Layout • 8-Layer PCB Design  
+Signal Routing • Power Distribution • Sensor Integration  
+Debugging • Soldering • Reflow Oven • Bring-up & Testing  
+
+---
+
+### 🧠 Programming & Software
+C • C++ • Python • Embedded C • Verilog  
+NumPy • OpenCV • MATLAB • Linux • Git/GitHub  
+
+---
+
+### 🛠️ Development Tools
+STM32CubeMX • Arduino IDE • Wokwi • Blynk  
+Digikey • nRF Connect • VS Code  
+
 
 ---
 
@@ -76,11 +97,11 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/chirag-bhalla-4763a0297/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:chiragbhalla86@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
