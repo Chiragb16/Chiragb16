@@ -1,70 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A3D2E,50:0F6D58,100:06251D&text=Chirag%20Bhalla&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B3D2E,50:0F766E,100:134E4A&text=Chirag%20Bhalla&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00E676&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;PCB+Designer;FPGA+Developer;Digital+%26+Analog+IC+Design;Building+Hardware+From+Scratch"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00E676&center=true&vCenter=true&width=750&lines=Embedded+Systems;PCB+Designer;FPGA+Developer;Digital+%26+Analog+IC+Design"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-0F9D58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PCB%20Design-00695C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-1B5E20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Analog%20IC-388E3C?style=for-the-badge"/>
+<a href="mailto:chiragbhalla86@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chirag-bhalla-4763a0297/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chiragb16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-##  Engineering Blueprint
 
-```text Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India          
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│                 CHIRAG BHALLA                                 │
-│                                                               │
-│  STATUS          : Designing Hardware                         │
-│                                                               │
-│  DEGREE          : B.E Electronics & Communication            │
-│                                                               │
-│  UNIVERSITY      : Dayananda Sagar College of Engineering      │
-│                                                               │
-│  SPECIALIZATION  : Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India                           │
-│                                                               │
-│  REVISION        : A                                          │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-## About Me
- Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India          
-I'm an Electronics and Communication Engineering student who enjoys building hardware from the ground up. Most of my work revolves around custom PCB design, embedded systems, FPGA development, and digital hardware. Recently I've been exploring Analog IC Design while continuing to work on open-source hardware projects.
+---
 
-I like designing things that move beyond simulations and can eventually be fabricated, assembled, and tested in the real world.
+# About Me
 
-## Engineering Snapshot
+I'm an Electronics & Communication Engineering student passionate about building hardware from the ground up. My interests lie in **Embedded Systems**, **PCB Design**, **FPGA Development**, and **Digital & Analog IC Design**. I enjoy taking projects from schematic capture to PCB layout, simulation, fabrication, and hardware bring-up while continuously learning new technologies.
 
-| Hardware | Progress |
-|-----------|----------|
-| PCB Projects | **25+** |
-| Embedded Projects | **10** |
-| FPGA Boards Designed | **2** |
+---
+
+# Engineering Snapshot
+
+| | |
+|:-----------------------------|:---:|
+| PCB Projects Designed | **25+** |
+| Embedded System Projects | **10** |
+| FPGA Development Boards | **2** |
 | Hack Club Funding | **$200** |
 | Hackathon Wins | **3** |
 | HDLBits Completed | **182 / 182** |
@@ -73,114 +45,60 @@ I like designing things that move beyond simulations and can eventually be fabri
 
 ---
 
-# Featured Hardware
+# Current Focus
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### HoneyGuard
-
-Wireless Beehive Monitoring System
-
-<a href="https://github.com/Chiragb16/HoneyGuard">
-<img src="https://github.com/Chiragb16/HoneyGuard/raw/main/images/Board.png" width="260">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### Nova FPGA Board
-
-Custom Spartan-7 Development Board
-
-<a href="https://github.com/Chiragb16/Nova-FPGA-Board">
-<img src="https://github.com/Chiragb16/Nova-FPGA-Board/raw/main/images/Board.png" width="260">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### SentraNode
-
-Wireless Sensor Platform
-
-<a href="https://github.com/Chiragb16/SentraNode">
-<img src="https://github.com/Chiragb16/SentraNode/raw/main/Board.png" width="260">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### LinkBridge Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India          
-
-10Gbps Ethernet Board
-
-<a href="https://github.com/Chiragb16/LinkBridge">
-<img src="https://github.com/Chiragb16/LinkBridge/raw/main/Board.png" width="260">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### OmniX
-
-Embedded Controller
-
-<a href="https://github.com/Chiragb16/OmniX">
-<img src="https://github.com/Chiragb16/OmniX/raw/main/Board.png" width="260">
-</a>
-
-</td>
-
-<td align="center" width="33%">
-
-### MacroPad
-
-RP2040 Macro Keyboard
-
-<a href="https://github.com/Chiragb16/MacroPad">
-<img src="https://github.com/Chiragb16/MacroPad/raw/main/images/Board.png" width="260">
-</a>
-
-</td>
- Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India          
-</tr>
-</table>
+```text
+• FPGA Development
+• Analog IC Design
+• High-Speed PCB Design
+• RTL Design & Verification
+• Open Source Hardware
+```
 
 ---
+
+# Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Chiragb16/HoneyGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=HoneyGuard&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Chiragb16/Nova-FPGA-Board">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=Nova-FPGA-Board&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Chiragb16/SentraNode">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=SentraNode&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Chiragb16/LinkBridge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=LinkBridge&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Chiragb16/NeonCore">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=NeonCore&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Chiragb16/OmniX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=OmniX&theme=tokyonight&hide_border=true"/>
+</a>
 # Tech Stack
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td valign="top" width="25%">
 
 ### Languages
 
@@ -193,77 +111,39 @@ RP2040 Macro Keyboard
 
 </td>
 
-<td width="50%">
+<td valign="top" width="25%">
 
 ### Embedded
- Embedded Systems                           │
-│                    PCB Design                                 │
-│                    FPGA Development                           │
-│                    Digital IC Design                          │
-│                    Analog IC Design                           │
-│                                                               │
-│  LOCATION        : Bengaluru, India          
-- STM32
+
 - ESP32
+- STM32
 - RP2040
 - nRF52840
-- Arduino
+- FreeRTOS
 
 </td>
 
-</tr>
+<td valign="top" width="25%">
 
-<tr>
+### PCB & Hardware
 
-<td>
+- KiCad
+- High-Speed PCB
+- Differential Pairs
+- Signal Integrity
+- Multi-layer PCBs
 
-### FPGA & Digital
+</td>
+
+<td valign="top" width="25%">
+
+### FPGA & VLSI
 
 - Vivado
 - Quartus
 - ModelSim
-- GTKWave
-- Tiny Tapeout
-
-</td>
-
-<td>
-
-### PCB Design
-
-- KiCad
-- High-Speed PCB
-- Differential Pair Routing
-- Signal Integrity
-- Multi-layer PCB
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Analog IC
-
 - Cadence Virtuoso
 - ngspice
-- Sky130
-- PLL
-- Ring Oscillators
-
-</td>
-
-<td>
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- STM32CubeMX
-- VS Code
 
 </td>
 
@@ -272,93 +152,52 @@ RP2040 Macro Keyboard
 </table>
 
 ---
-# Engineering Journey
+
+# Currently Exploring
 
 ```text
-2023
+✓ Analog IC Design
 
-Started Embedded Systems
+✓ PLL Design
 
-│
+✓ CMOS Ring Oscillators
 
-├── ESP32
+✓ RTL Verification
 
-├── Arduino
+✓ FPGA System Design
 
-└── PCB Design
-
-↓
-
-2024
-
-Custom PCB Projects
-
-│
-
-├── Smart Ring
-
-├── HoneyGuard
-
-└── STM32 Boards
-
-↓
-
-2025
-
-Digital Hardware
-
-│
-
-├── FPGA
-
-├── RTL Design
-
-├── ASIC Flow
-
-└── Verification
-
-↓
-
-2026
-
-Analog IC Design
-
-│
-
-├── PLL
-
-├── Ring Oscillator
-
-├── Standard Cells
-
-└── Mixed Signal
+✓ High-Speed PCB Design
 ```
 
 ---
-# Current Focus
+
+# Hardware Highlights
 
 ```text
-Designing High-Speed PCBs
+HoneyGuard        → 8-Layer Wireless Beehive Monitoring System
 
-Building FPGA Development Boards
+Nova FPGA         → Custom Spartan-7 Development Board
 
-Learning Analog IC Design
+SentraNode        → Embedded Sensor Platform
 
-RTL Design & Verification
+NeonCore          → RP2040 Cyberpunk Badge
 
-Open Source Hardware
+LinkBridge        → 10 Gbps Ethernet Coupler Board
 
-Custom Embedded Systems
+PulseLoop         → Three-Stage CMOS Ring Oscillator
+
+ALU               → RTL to GDSII Design Flow
 ```
 
 ---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chiragb16&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chiragb16&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragb16&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragb16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -367,35 +206,70 @@ Custom Embedded Systems
 </div>
 
 ---
+
+# Achievements
+
+🏆 Top 7 Finalist — Smart India Hackathon 2025
+
+🥇 Top 1% — NPTEL Digital Circuits
+
+💰 $200 Hardware Funding — Hack Club
+
+🥈 3 Hackathon Wins
+
+💻 182/182 HDLBits Completed
+
+🔧 25+ PCB Designs & 10+ Embedded Projects
+
+---
 # Contribution Graph
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
-
-<img src="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg"/>
-
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake"
+       src="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
-# Connect
 
-<p align="center">
+# Let's Connect
 
-<a href="https://github.com/Chiragb16">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<div align="center">
+
+<a href="mailto:chiragbhalla86@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chirag-bhalla-4763a0297">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:chiragbhalla86@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<a href="https://github.com/Chiragb16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"I enjoy building hardware—from schematics and PCB layouts to FPGA designs and analog circuits. There's always something new on the workbench."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:134E4A,50:0F766E,100:0B3D2E"/>
+
+</div>
 </p>
+
+---
