@@ -59,39 +59,94 @@ I'm an Electronics & Communication Engineering student passionate about building
 
 # Featured Projects
 
-<p align="center">
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
 
 <a href="https://github.com/Chiragb16/HoneyGuard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=HoneyGuard&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/HoneyGuard/main/images/Board.png" width="280"/>
 </a>
+
+<b>HoneyGuard</b><br>
+Wireless Beehive Monitoring System
+
+</td>
+
+<td align="center">
 
 <a href="https://github.com/Chiragb16/Nova-FPGA-Board">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=Nova-FPGA-Board&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/Nova-FPGA-Board/main/images/Board.png" width="280"/>
 </a>
 
-</p>
+<b>Nova FPGA Board</b><br>
+Custom Spartan-7 FPGA Development Board
 
-<p align="center">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 
 <a href="https://github.com/Chiragb16/SentraNode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=SentraNode&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/SentraNode/main/images/Board.png" width="280"/>
 </a>
+
+<b>SentraNode</b><br>
+Wireless Sensor Platform
+
+</td>
+
+<td align="center">
 
 <a href="https://github.com/Chiragb16/LinkBridge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=LinkBridge&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/LinkBridge/main/images/Board.png" width="280"/>
 </a>
 
-</p>
+<b>LinkBridge</b><br>
+10 Gbps Ethernet Coupler Board
 
-<p align="center">
+</td>
 
-<a href="https://github.com/Chiragb16/NeonCore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=NeonCore&theme=tokyonight&hide_border=true"/>
-</a>
+</tr>
+
+<tr>
+
+<td align="center">
 
 <a href="https://github.com/Chiragb16/OmniX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Chiragb16&repo=OmniX&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/OmniX/main/images/Board.png" width="280"/>
 </a>
+
+<b>OmniX</b><br>
+Embedded Controller
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Chiragb16/MacroPad">
+<img src="https://raw.githubusercontent.com/Chiragb16/MacroPad/main/images/Board.png" width="280"/>
+</a>
+
+<b>MacroPad</b><br>
+RP2040 Macro Keyboard
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
 # Tech Stack
 
 <table>
