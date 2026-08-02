@@ -65,22 +65,26 @@ I'm an Electronics & Communication Engineering student passionate about building
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Chiragb16/HoneyGuard">
 <img src="https://raw.githubusercontent.com/Chiragb16/HoneyGuard/main/Board.jpeg" width="280"/>
 </a>
+
+<br><br>
 
 <b>HoneyGuard</b><br>
 Wireless Beehive Monitoring System
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Chiragb16/Nova-FPGA-Board">
 <img src="https://raw.githubusercontent.com/Chiragb16/Nova-FPGA-Board/main/images/Board.png" width="280"/>
 </a>
+
+<br><br>
 
 <b>Nova FPGA Board</b><br>
 Custom Spartan-7 FPGA Development Board
@@ -91,22 +95,26 @@ Custom Spartan-7 FPGA Development Board
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-<a href="https://github.com/Chiragb16/SentraNode">
-<img src="https://raw.githubusercontent.com/Chiragb16/SentraNode/main/images/Board.png" width="280"/>
+<a href="https://github.com/Chiragb16/NeonCore">
+<img src="https://raw.githubusercontent.com/Chiragb16/NeonCore/main/images/Board.png" width="280"/>
 </a>
 
-<b>SentraNode</b><br>
-Wireless Sensor Platform
+<br><br>
+
+<b>NeonCore</b><br>
+Cyberpunk RP2040 Development Badge
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Chiragb16/APEXFPGA">
 <img src="https://raw.githubusercontent.com/Chiragb16/APEXFPGA/main/Board.png" width="280"/>
 </a>
+
+<br><br>
 
 <b>APEXFPGA</b><br>
 Custom FPGA Development Platform
@@ -117,25 +125,29 @@ Custom FPGA Development Platform
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Chiragb16/OmniX">
 <img src="https://raw.githubusercontent.com/Chiragb16/OmniX/main/images/Board.png" width="280"/>
 </a>
 
+<br><br>
+
 <b>OmniX</b><br>
-Embedded Controller
+Embedded Controller Board
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 <a href="https://github.com/Chiragb16/MacroPad">
 <img src="https://raw.githubusercontent.com/Chiragb16/MacroPad/main/images/Board.png" width="280"/>
 </a>
 
+<br><br>
+
 <b>MacroPad</b><br>
-RP2040 Macro Keyboard
+RP2040 Programmable Macro Keyboard
 
 </td>
 
