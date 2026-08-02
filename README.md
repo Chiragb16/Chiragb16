@@ -105,7 +105,7 @@ Wireless Sensor Platform
 <td align="center">
 
 <a href="https://github.com/Chiragb16/APEXFPGA">
-<img src="https://raw.githubusercontent.com/Chiragb16/APEXFPGA/main/images/Board.png" width="280"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/APEXFPGA/main/Board.png" width="280"/>
 </a>
 
 <b>APEXFPGA</b><br>
@@ -120,7 +120,7 @@ Custom FPGA Development Platform
 <td align="center">
 
 <a href="https://github.com/Chiragb16/OmniX">
-<img src="https://raw.githubusercontent.com/Chiragb16/OmniX/main/Board.png" width="280"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/OmniX/main/images/Board.png" width="280"/>
 </a>
 
 <b>OmniX</b><br>
