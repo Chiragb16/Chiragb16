@@ -17,7 +17,13 @@
 </div>
 ##  Engineering Blueprint
 
-```text
+```text Embedded Systems                           │
+│                    PCB Design                                 │
+│                    FPGA Development                           │
+│                    Digital IC Design                          │
+│                    Analog IC Design                           │
+│                                                               │
+│  LOCATION        : Bengaluru, India          
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
 │                 CHIRAG BHALLA                                 │
@@ -41,7 +47,13 @@
 └───────────────────────────────────────────────────────────────┘
 ```
 ## About Me
-
+ Embedded Systems                           │
+│                    PCB Design                                 │
+│                    FPGA Development                           │
+│                    Digital IC Design                          │
+│                    Analog IC Design                           │
+│                                                               │
+│  LOCATION        : Bengaluru, India          
 I'm an Electronics and Communication Engineering student who enjoys building hardware from the ground up. Most of my work revolves around custom PCB design, embedded systems, FPGA development, and digital hardware. Recently I've been exploring Analog IC Design while continuing to work on open-source hardware projects.
 
 I like designing things that move beyond simulations and can eventually be fabricated, assembled, and tested in the real world.
@@ -112,7 +124,13 @@ Wireless Sensor Platform
 
 <td align="center" width="33%">
 
-### LinkBridge
+### LinkBridge Embedded Systems                           │
+│                    PCB Design                                 │
+│                    FPGA Development                           │
+│                    Digital IC Design                          │
+│                    Analog IC Design                           │
+│                                                               │
+│  LOCATION        : Bengaluru, India          
 
 10Gbps Ethernet Board
 
@@ -145,8 +163,239 @@ RP2040 Macro Keyboard
 </a>
 
 </td>
-
+ Embedded Systems                           │
+│                    PCB Design                                 │
+│                    FPGA Development                           │
+│                    Digital IC Design                          │
+│                    Analog IC Design                           │
+│                                                               │
+│  LOCATION        : Bengaluru, India          
 </tr>
 </table>
 
 ---
+# Tech Stack
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Languages
+
+- C
+- C++
+- Python
+- Verilog
+- SystemVerilog
+- Embedded C
+
+</td>
+
+<td width="50%">
+
+### Embedded
+ Embedded Systems                           │
+│                    PCB Design                                 │
+│                    FPGA Development                           │
+│                    Digital IC Design                          │
+│                    Analog IC Design                           │
+│                                                               │
+│  LOCATION        : Bengaluru, India          
+- STM32
+- ESP32
+- RP2040
+- nRF52840
+- Arduino
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### FPGA & Digital
+
+- Vivado
+- Quartus
+- ModelSim
+- GTKWave
+- Tiny Tapeout
+
+</td>
+
+<td>
+
+### PCB Design
+
+- KiCad
+- High-Speed PCB
+- Differential Pair Routing
+- Signal Integrity
+- Multi-layer PCB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Analog IC
+
+- Cadence Virtuoso
+- ngspice
+- Sky130
+- PLL
+- Ring Oscillators
+
+</td>
+
+<td>
+
+### Tools
+
+- Git
+- GitHub
+- Linux
+- STM32CubeMX
+- VS Code
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# Engineering Journey
+
+```text
+2023
+
+Started Embedded Systems
+
+│
+
+├── ESP32
+
+├── Arduino
+
+└── PCB Design
+
+↓
+
+2024
+
+Custom PCB Projects
+
+│
+
+├── Smart Ring
+
+├── HoneyGuard
+
+└── STM32 Boards
+
+↓
+
+2025
+
+Digital Hardware
+
+│
+
+├── FPGA
+
+├── RTL Design
+
+├── ASIC Flow
+
+└── Verification
+
+↓
+
+2026
+
+Analog IC Design
+
+│
+
+├── PLL
+
+├── Ring Oscillator
+
+├── Standard Cells
+
+└── Mixed Signal
+```
+
+---
+# Current Focus
+
+```text
+Designing High-Speed PCBs
+
+Building FPGA Development Boards
+
+Learning Analog IC Design
+
+RTL Design & Verification
+
+Open Source Hardware
+
+Custom Embedded Systems
+```
+
+---
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chiragb16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragb16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Chiragb16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# Contribution Graph
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/Chiragb16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/chirag-bhalla-4763a0297">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:chiragbhalla86@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
