@@ -68,7 +68,7 @@ I'm an Electronics & Communication Engineering student passionate about building
 <td align="center">
 
 <a href="https://github.com/Chiragb16/HoneyGuard">
-<img src="https://raw.githubusercontent.com/Chiragb16/HoneyGuard/main/images/Board.png" width="280"/>
+<img src="https://raw.githubusercontent.com/Chiragb16/HoneyGuard/main/Board.jpeg" width="280"/>
 </a>
 
 <b>HoneyGuard</b><br>
@@ -104,12 +104,12 @@ Wireless Sensor Platform
 
 <td align="center">
 
-<a href="https://github.com/Chiragb16/LinkBridge">
-<img src="https://raw.githubusercontent.com/Chiragb16/LinkBridge/main/images/Board.png" width="280"/>
+<a href="https://github.com/Chiragb16/APEXFPGA">
+<img src="https://raw.githubusercontent.com/Chiragb16/APEXFPGA/main/images/Board.png" width="280"/>
 </a>
 
-<b>LinkBridge</b><br>
-10 Gbps Ethernet Coupler Board
+<b>APEXFPGA</b><br>
+Custom FPGA Development Platform
 
 </td>
 
@@ -275,22 +275,6 @@ ALU               → RTL to GDSII Design Flow
 💻 182/182 HDLBits Completed
 
 🔧 25+ PCB Designs & 10+ Embedded Projects
-
----
-# Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake"
-       src="https://raw.githubusercontent.com/Chiragb16/Chiragb16/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
 
 ---
 
