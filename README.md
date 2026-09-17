@@ -67,14 +67,14 @@ I'm an Electronics & Communication Engineering student passionate about building
 
 <td align="center" width="50%">
 
-<a href="https://github.com/Chiragb16/HoneyGuard">
-<img src="https://raw.githubusercontent.com/Chiragb16/HoneyGuard/main/Board.jpeg" width="280"/>
+<a href="https://github.com/Chiragb16/RISC-V-CPU">
+<img src="https://github.com/Chiragb16/RISC-V-CPU/blob/main/images/floorplan.png" width="280"/>
 </a>
 
 <br><br>
 
-<b>HoneyGuard</b><br>
-Wireless Beehive Monitoring System
+<b>RISC-V CPU</b><br>
+Built on free ISA
 
 </td>
 
@@ -140,14 +140,14 @@ Embedded Controller Board
 
 <td align="center" width="50%">
 
-<a href="https://github.com/Chiragb16/MacroPad">
-<img src="https://raw.githubusercontent.com/Chiragb16/MacroPad/main/images/Board.png" width="280"/>
+<a href="https://github.com/Chiragb16/4-Neuron-MAC-Based-AI-Accelerator-ASIC">
+<img src="https://github.com/Chiragb16/4-Neuron-MAC-Based-AI-Accelerator-ASIC/blob/main/images/Floorplan.png" width="280"/>
 </a>
 
 <br><br>
 
-<b>MacroPad</b><br>
-RP2040 Programmable Macro Keyboard
+<b>4-Neuron MAC-Based AI Accelerator ASIC</b><br>
+Small Neural-Network Accelerator
 
 </td>
 
